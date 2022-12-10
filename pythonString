@@ -1,4 +1,0 @@
-a='amazon'
-b=a[0:2]
-c=a+b
-print(b,c,c*3,sep='\n')
