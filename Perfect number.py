@@ -5,4 +5,4 @@ def perfect_number(n):
             sum += x
     return sum == n
 n=int(input('Enter the number : '))
-print(perfect_number(n))
+print('The number is :',perfect_number(n))
